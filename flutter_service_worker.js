@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "98ba3b98f133282b726e380638d7ee51",
+const RESOURCES = {"flutter_bootstrap.js": "6bf927d5427c7616050b1135397a4c4c",
 "version.json": "1abb45e4b153ff775af9399cf2162a33",
 "index.html": "a315a9ea8a86b156cfd31729ceef56ed",
 "/": "a315a9ea8a86b156cfd31729ceef56ed",
-"main.dart.js": "ad40f792f6ad45a8705d624dc7e7cd9f",
+"main.dart.js": "12150073bc04b9587f2b3156bdbb4c58",
 "flutter.js": "888483df48293866f9f41d3d9274a779",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -30,7 +30,7 @@ const RESOURCES = {"flutter_bootstrap.js": "98ba3b98f133282b726e380638d7ee51",
 "assets/packages/supabase_auth_ui/assets/logos/keycloak.png": "ea74380ccc89dbc26bd0281dd46ee942",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "assets/AssetManifest.bin": "ee33f603f2a0f4620d0a1de5f10dad7c",
-"assets/fonts/MaterialIcons-Regular.otf": "de5add34fde4a14a21b86767d1f8521b",
+"assets/fonts/MaterialIcons-Regular.otf": "f392d12d08e9fac05df48a52ed18f825",
 "assets/assets/images/app_icon.png": "6f692d3f1504069cb55478e406d909d8",
 "assets/assets/images/instagram.png": "88853c3794bc19fa502fe386fa5619ed",
 "assets/assets/images/whatsapp_logo.png": "c92d9f234a60def2c9edc69a1e29530a",
